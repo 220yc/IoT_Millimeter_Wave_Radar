@@ -1,7 +1,7 @@
 # IoT_Millimeter_Wave_Radar
 # Finger Magician - Innovations in Hand Rehabilitation Using Millimeter Wave Radar and Smart IoT👌✌️🤞
 
-## Motivation
+## Motivation🤩
 
 ### 1. Commonality of Hand Function Impairments
 Many diseases and injuries can lead to hand function impairments, such as trigger finger, stroke, traumatic brain injuries, and neurological disorders. These impairments can severely affect patients' daily lives and independence.
