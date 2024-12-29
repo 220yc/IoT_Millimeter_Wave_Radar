@@ -8,7 +8,7 @@ Many diseases and injuries can lead to hand function impairments, such as trigge
 
 ### 2. Importance of Rehabilitation Therapy
 Proper rehabilitation training is crucial for patients to regain hand function. Through systematic rehabilitation training, patients can rebuild hand movement and control abilities, improving their quality of life.
-
+  
 ### 3. Limitations of Existing Rehabilitation Methods
 Traditional rehabilitation therapy often requires close supervision by professional therapists, making it costly and less accessible. Without objective quantitative assessment methods, accurately tracking patients' rehabilitation progress is challenging.
   
