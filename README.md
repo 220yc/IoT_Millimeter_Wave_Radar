@@ -11,7 +11,7 @@ Proper rehabilitation training is crucial for patients to regain hand function. 
 
 ### 3. Limitations of Existing Rehabilitation Methods
 Traditional rehabilitation therapy often requires close supervision by professional therapists, making it costly and less accessible. Without objective quantitative assessment methods, accurately tracking patients' rehabilitation progress is challenging.
-
+  
 ### 4. Utilizing Technology to Enhance Rehabilitation Efficiency
 Advanced techniques such as **Convolutional Neural Networks (CNN)** and **Long Short-Term Memory (LSTM)** networks enable precise monitoring and analysis of hand movements. These technologies effectively capture important spatial and temporal features from millimeter wave radar data, facilitating efficient feature extraction and processing in high-dimensional data.
 
